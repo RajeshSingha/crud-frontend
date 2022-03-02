@@ -38,7 +38,7 @@ export default {
                 fname: null,
                 lname: null,
                 email: null,
-                // err: [],
+                err: [],
             }
         }
     },
